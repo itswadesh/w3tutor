@@ -23,6 +23,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: DBMS
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: '/dbms'
   - title: Python
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Svelte
