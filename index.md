@@ -15,11 +15,18 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: HTML
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: CSS
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Javascript
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: DBMS
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Python
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Svelte
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 ---
 
